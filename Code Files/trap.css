@@ -1,0 +1,29 @@
+html {
+    background: blue;
+}
+body {
+    background: white;
+    padding: 25px 50px;
+    margin: 25px auto;
+    border-radius: 25px;
+    width: 600px;
+    text-align: left;
+    margin-top: 95px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    border: 1px solid rgb(218, 210, 210);
+}
+
+button {
+    background-color: maroon;
+    color: white;
+}
